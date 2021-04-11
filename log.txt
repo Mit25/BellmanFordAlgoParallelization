@@ -1,0 +1,661 @@
+
+1_1_g32.txt:	 Start Executing
+1_1_g32.txt:	 Before bellman_ford
+1_1_g32.txt:	 Before cudaMalloc
+1_1_g32.txt:	 After cudaMalloc
+1_1_g32.txt:	 Before while loop
+1_1_g32.txt:	 After while loop
+1_1_g32.txt:	 Before writing time in file
+1_1_g32.txt:	 After writing time in file
+1_1_g32.txt:	 After bellman_ford
+1_1_g32.txt:	 End of Execution
+1_2_g32.txt:	 Start Executing
+1_2_g32.txt:	 Before bellman_ford
+1_2_g32.txt:	 Before cudaMalloc
+1_2_g32.txt:	 After cudaMalloc
+1_2_g32.txt:	 Before while loop
+1_2_g32.txt:	 After while loop
+1_2_g32.txt:	 Before writing time in file
+1_2_g32.txt:	 After writing time in file
+1_2_g32.txt:	 After bellman_ford
+1_2_g32.txt:	 End of Execution
+1_4_g32.txt:	 Start Executing
+1_4_g32.txt:	 Before bellman_ford
+1_4_g32.txt:	 Before cudaMalloc
+1_4_g32.txt:	 After cudaMalloc
+1_4_g32.txt:	 Before while loop
+1_4_g32.txt:	 After while loop
+1_4_g32.txt:	 Before writing time in file
+1_4_g32.txt:	 After writing time in file
+1_4_g32.txt:	 After bellman_ford
+1_4_g32.txt:	 End of Execution
+1_8_g32.txt:	 Start Executing
+1_8_g32.txt:	 Before bellman_ford
+1_8_g32.txt:	 Before cudaMalloc
+1_8_g32.txt:	 After cudaMalloc
+1_8_g32.txt:	 Before while loop
+1_8_g32.txt:	 After while loop
+1_8_g32.txt:	 Before writing time in file
+1_8_g32.txt:	 After writing time in file
+1_8_g32.txt:	 After bellman_ford
+1_8_g32.txt:	 End of Execution
+1_16_g32.txt:	 Start Executing
+1_16_g32.txt:	 Before bellman_ford
+1_16_g32.txt:	 Before cudaMalloc
+1_16_g32.txt:	 After cudaMalloc
+1_16_g32.txt:	 Before while loop
+1_16_g32.txt:	 After while loop
+1_16_g32.txt:	 Before writing time in file
+1_16_g32.txt:	 After writing time in file
+1_16_g32.txt:	 After bellman_ford
+1_16_g32.txt:	 End of Execution
+1_32_g32.txt:	 Start Executing
+1_32_g32.txt:	 Before bellman_ford
+1_32_g32.txt:	 Before cudaMalloc
+1_32_g32.txt:	 After cudaMalloc
+1_32_g32.txt:	 Before while loop
+1_32_g32.txt:	 After while loop
+1_32_g32.txt:	 Before writing time in file
+1_32_g32.txt:	 After writing time in file
+1_32_g32.txt:	 After bellman_ford
+1_32_g32.txt:	 End of Execution
+1_64_g32.txt:	 Start Executing
+1_64_g32.txt:	 Before bellman_ford
+1_64_g32.txt:	 Before cudaMalloc
+1_64_g32.txt:	 After cudaMalloc
+1_64_g32.txt:	 Before while loop
+1_64_g32.txt:	 After while loop
+1_64_g32.txt:	 Before writing time in file
+1_64_g32.txt:	 After writing time in file
+1_64_g32.txt:	 After bellman_ford
+1_64_g32.txt:	 End of Execution
+1_1_g32.txt:	 Start Executing
+1_1_g32.txt:	 Before bellman_ford
+1_1_g32.txt:	 Before cudaMalloc
+1_1_g32.txt:	 After cudaMalloc
+1_1_g32.txt:	 Before while loop
+1_1_g32.txt:	 After while loop
+1_1_g32.txt:	 Before writing time in file
+1_1_g32.txt:	 After writing time in file
+1_1_g32.txt:	 After bellman_ford
+1_1_g32.txt:	 End of Execution
+1_2_g32.txt:	 Start Executing
+1_2_g32.txt:	 Before bellman_ford
+1_2_g32.txt:	 Before cudaMalloc
+1_2_g32.txt:	 After cudaMalloc
+1_2_g32.txt:	 Before while loop
+1_2_g32.txt:	 After while loop
+1_2_g32.txt:	 Before writing time in file
+1_2_g32.txt:	 After writing time in file
+1_2_g32.txt:	 After bellman_ford
+1_2_g32.txt:	 End of Execution
+1_4_g32.txt:	 Start Executing
+1_4_g32.txt:	 Before bellman_ford
+1_4_g32.txt:	 Before cudaMalloc
+1_4_g32.txt:	 After cudaMalloc
+1_4_g32.txt:	 Before while loop
+1_4_g32.txt:	 After while loop
+1_4_g32.txt:	 Before writing time in file
+1_4_g32.txt:	 After writing time in file
+1_4_g32.txt:	 After bellman_ford
+1_4_g32.txt:	 End of Execution
+1_8_g32.txt:	 Start Executing
+1_8_g32.txt:	 Before bellman_ford
+1_8_g32.txt:	 Before cudaMalloc
+1_8_g32.txt:	 After cudaMalloc
+1_8_g32.txt:	 Before while loop
+1_8_g32.txt:	 After while loop
+1_8_g32.txt:	 Before writing time in file
+1_8_g32.txt:	 After writing time in file
+1_8_g32.txt:	 After bellman_ford
+1_8_g32.txt:	 End of Execution
+1_16_g32.txt:	 Start Executing
+1_16_g32.txt:	 Before bellman_ford
+1_16_g32.txt:	 Before cudaMalloc
+1_16_g32.txt:	 After cudaMalloc
+1_16_g32.txt:	 Before while loop
+1_16_g32.txt:	 After while loop
+1_16_g32.txt:	 Before writing time in file
+1_16_g32.txt:	 After writing time in file
+1_16_g32.txt:	 After bellman_ford
+1_16_g32.txt:	 End of Execution
+1_32_g32.txt:	 Start Executing
+1_32_g32.txt:	 Before bellman_ford
+1_32_g32.txt:	 Before cudaMalloc
+1_32_g32.txt:	 After cudaMalloc
+1_32_g32.txt:	 Before while loop
+1_32_g32.txt:	 After while loop
+1_32_g32.txt:	 Before writing time in file
+1_32_g32.txt:	 After writing time in file
+1_32_g32.txt:	 After bellman_ford
+1_32_g32.txt:	 End of Execution
+1_64_g32.txt:	 Start Executing
+1_64_g32.txt:	 Before bellman_ford
+1_64_g32.txt:	 Before cudaMalloc
+1_64_g32.txt:	 After cudaMalloc
+1_64_g32.txt:	 Before while loop
+1_64_g32.txt:	 After while loop
+1_64_g32.txt:	 Before writing time in file
+1_64_g32.txt:	 After writing time in file
+1_64_g32.txt:	 After bellman_ford
+1_64_g32.txt:	 End of Execution
+1_1_g8192.txt:	 Start Executing
+1_1_g8192.txt:	 Before bellman_ford
+1_1_g8192.txt:	 Before cudaMalloc
+1_1_g8192.txt:	 After cudaMalloc
+1_1_g8192.txt:	 Before while loop
+1_1_g8192.txt:	 After while loop
+1_1_g8192.txt:	 Before writing time in file
+1_1_g8192.txt:	 After writing time in file
+1_1_g8192.txt:	 After bellman_ford
+1_1_g8192.txt:	 End of Execution
+1_2_g8192.txt:	 Start Executing
+1_2_g8192.txt:	 Before bellman_ford
+1_2_g8192.txt:	 Before cudaMalloc
+1_2_g8192.txt:	 After cudaMalloc
+1_2_g8192.txt:	 Before while loop
+1_2_g8192.txt:	 After while loop
+1_2_g8192.txt:	 Before writing time in file
+1_2_g8192.txt:	 After writing time in file
+1_2_g8192.txt:	 After bellman_ford
+1_2_g8192.txt:	 End of Execution
+1_4_g8192.txt:	 Start Executing
+1_4_g8192.txt:	 Before bellman_ford
+1_4_g8192.txt:	 Before cudaMalloc
+1_4_g8192.txt:	 After cudaMalloc
+1_4_g8192.txt:	 Before while loop
+1_4_g8192.txt:	 After while loop
+1_4_g8192.txt:	 Before writing time in file
+1_4_g8192.txt:	 After writing time in file
+1_4_g8192.txt:	 After bellman_ford
+1_4_g8192.txt:	 End of Execution
+1_8_g8192.txt:	 Start Executing
+1_8_g8192.txt:	 Before bellman_ford
+1_8_g8192.txt:	 Before cudaMalloc
+1_8_g8192.txt:	 After cudaMalloc
+1_8_g8192.txt:	 Before while loop
+1_8_g8192.txt:	 After while loop
+1_8_g8192.txt:	 Before writing time in file
+1_8_g8192.txt:	 After writing time in file
+1_8_g8192.txt:	 After bellman_ford
+1_8_g8192.txt:	 End of Execution
+1_16_g8192.txt:	 Start Executing
+1_16_g8192.txt:	 Before bellman_ford
+1_16_g8192.txt:	 Before cudaMalloc
+1_16_g8192.txt:	 After cudaMalloc
+1_16_g8192.txt:	 Before while loop
+1_16_g8192.txt:	 After while loop
+1_16_g8192.txt:	 Before writing time in file
+1_16_g8192.txt:	 After writing time in file
+1_16_g8192.txt:	 After bellman_ford
+1_16_g8192.txt:	 End of Execution
+1_32_g8192.txt:	 Start Executing
+1_32_g8192.txt:	 Before bellman_ford
+1_32_g8192.txt:	 Before cudaMalloc
+1_32_g8192.txt:	 After cudaMalloc
+1_32_g8192.txt:	 Before while loop
+1_32_g8192.txt:	 After while loop
+1_32_g8192.txt:	 Before writing time in file
+1_32_g8192.txt:	 After writing time in file
+1_32_g8192.txt:	 After bellman_ford
+1_32_g8192.txt:	 End of Execution
+1_64_g8192.txt:	 Start Executing
+1_64_g8192.txt:	 Before bellman_ford
+1_64_g8192.txt:	 Before cudaMalloc
+1_64_g8192.txt:	 After cudaMalloc
+1_64_g8192.txt:	 Before while loop
+1_64_g8192.txt:	 After while loop
+1_64_g8192.txt:	 Before writing time in file
+1_64_g8192.txt:	 After writing time in file
+1_64_g8192.txt:	 After bellman_ford
+1_64_g8192.txt:	 End of Execution
+1_128_g8192.txt:	 Start Executing
+1_128_g8192.txt:	 Before bellman_ford
+1_128_g8192.txt:	 Before cudaMalloc
+1_128_g8192.txt:	 After cudaMalloc
+1_128_g8192.txt:	 Before while loop
+1_128_g8192.txt:	 After while loop
+1_128_g8192.txt:	 Before writing time in file
+1_128_g8192.txt:	 After writing time in file
+1_128_g8192.txt:	 After bellman_ford
+1_128_g8192.txt:	 End of Execution
+1_256_g8192.txt:	 Start Executing
+1_256_g8192.txt:	 Before bellman_ford
+1_256_g8192.txt:	 Before cudaMalloc
+1_256_g8192.txt:	 After cudaMalloc
+1_256_g8192.txt:	 Before while loop
+1_256_g8192.txt:	 After while loop
+1_256_g8192.txt:	 Before writing time in file
+1_256_g8192.txt:	 After writing time in file
+1_256_g8192.txt:	 After bellman_ford
+1_256_g8192.txt:	 End of Execution
+1_512_g8192.txt:	 Start Executing
+1_512_g8192.txt:	 Before bellman_ford
+1_512_g8192.txt:	 Before cudaMalloc
+1_512_g8192.txt:	 After cudaMalloc
+1_512_g8192.txt:	 Before while loop
+1_512_g8192.txt:	 After while loop
+1_512_g8192.txt:	 Before writing time in file
+1_512_g8192.txt:	 After writing time in file
+1_512_g8192.txt:	 After bellman_ford
+1_512_g8192.txt:	 End of Execution
+1_1024_g8192.txt:	 Start Executing
+1_1024_g8192.txt:	 Before bellman_ford
+1_1024_g8192.txt:	 Before cudaMalloc
+1_1024_g8192.txt:	 After cudaMalloc
+1_1024_g8192.txt:	 Before while loop
+1_1024_g8192.txt:	 After while loop
+1_1024_g8192.txt:	 Before writing time in file
+1_1024_g8192.txt:	 After writing time in file
+1_1024_g8192.txt:	 After bellman_ford
+1_1024_g8192.txt:	 End of Execution
+1_2048_g8192.txt:	 Start Executing
+1_2048_g8192.txt:	 Before bellman_ford
+1_2048_g8192.txt:	 Before cudaMalloc
+1_2048_g8192.txt:	 After cudaMalloc
+1_2048_g8192.txt:	 Before while loop
+1_2048_g8192.txt:	 After while loop
+1_2048_g8192.txt:	 Before writing time in file
+1_2048_g8192.txt:	 After writing time in file
+1_2048_g8192.txt:	 After bellman_ford
+1_2048_g8192.txt:	 End of Execution
+1_4096_g8192.txt:	 Start Executing
+1_4096_g8192.txt:	 Before bellman_ford
+1_4096_g8192.txt:	 Before cudaMalloc
+1_4096_g8192.txt:	 After cudaMalloc
+1_4096_g8192.txt:	 Before while loop
+1_4096_g8192.txt:	 After while loop
+1_4096_g8192.txt:	 Before writing time in file
+1_4096_g8192.txt:	 After writing time in file
+1_4096_g8192.txt:	 After bellman_ford
+1_4096_g8192.txt:	 End of Execution
+1_8192_g8192.txt:	 Start Executing
+1_8192_g8192.txt:	 Before bellman_ford
+1_8192_g8192.txt:	 Before cudaMalloc
+1_8192_g8192.txt:	 After cudaMalloc
+1_8192_g8192.txt:	 Before while loop
+1_8192_g8192.txt:	 After while loop
+1_8192_g8192.txt:	 Before writing time in file
+1_8192_g8192.txt:	 After writing time in file
+1_8192_g8192.txt:	 After bellman_ford
+1_8192_g8192.txt:	 End of Execution
+1_16384_g8192.txt:	 Start Executing
+1_16384_g8192.txt:	 Before bellman_ford
+1_16384_g8192.txt:	 Before cudaMalloc
+1_16384_g8192.txt:	 After cudaMalloc
+1_16384_g8192.txt:	 Before while loop
+1_16384_g8192.txt:	 After while loop
+1_16384_g8192.txt:	 Before writing time in file
+1_16384_g8192.txt:	 After writing time in file
+1_16384_g8192.txt:	 After bellman_ford
+1_16384_g8192.txt:	 End of Execution
+4_4_g8192.txt:	 Start Executing
+4_4_g8192.txt:	 Before bellman_ford
+4_4_g8192.txt:	 Before cudaMalloc
+4_4_g8192.txt:	 After cudaMalloc
+4_4_g8192.txt:	 Before while loop
+4_4_g8192.txt:	 After while loop
+4_4_g8192.txt:	 Before writing time in file
+4_4_g8192.txt:	 After writing time in file
+4_4_g8192.txt:	 After bellman_ford
+4_4_g8192.txt:	 End of Execution
+8_8_g8192.txt:	 Start Executing
+8_8_g8192.txt:	 Before bellman_ford
+8_8_g8192.txt:	 Before cudaMalloc
+8_8_g8192.txt:	 After cudaMalloc
+8_8_g8192.txt:	 Before while loop
+8_8_g8192.txt:	 After while loop
+8_8_g8192.txt:	 Before writing time in file
+8_8_g8192.txt:	 After writing time in file
+8_8_g8192.txt:	 After bellman_ford
+8_8_g8192.txt:	 End of Execution
+16_16_g8192.txt:	 Start Executing
+16_16_g8192.txt:	 Before bellman_ford
+16_16_g8192.txt:	 Before cudaMalloc
+16_16_g8192.txt:	 After cudaMalloc
+16_16_g8192.txt:	 Before while loop
+16_16_g8192.txt:	 After while loop
+16_16_g8192.txt:	 Before writing time in file
+16_16_g8192.txt:	 After writing time in file
+16_16_g8192.txt:	 After bellman_ford
+16_16_g8192.txt:	 End of Execution
+32_32_g8192.txt:	 Start Executing
+32_32_g8192.txt:	 Before bellman_ford
+32_32_g8192.txt:	 Before cudaMalloc
+32_32_g8192.txt:	 After cudaMalloc
+32_32_g8192.txt:	 Before while loop
+32_32_g8192.txt:	 After while loop
+32_32_g8192.txt:	 Before writing time in file
+32_32_g8192.txt:	 After writing time in file
+32_32_g8192.txt:	 After bellman_ford
+32_32_g8192.txt:	 End of Execution
+64_64_g8192.txt:	 Start Executing
+64_64_g8192.txt:	 Before bellman_ford
+64_64_g8192.txt:	 Before cudaMalloc
+64_64_g8192.txt:	 After cudaMalloc
+64_64_g8192.txt:	 Before while loop
+64_64_g8192.txt:	 After while loop
+64_64_g8192.txt:	 Before writing time in file
+64_64_g8192.txt:	 After writing time in file
+64_64_g8192.txt:	 After bellman_ford
+64_64_g8192.txt:	 End of Execution
+128_128_g8192.txt:	 Start Executing
+128_128_g8192.txt:	 Before bellman_ford
+128_128_g8192.txt:	 Before cudaMalloc
+128_128_g8192.txt:	 After cudaMalloc
+128_128_g8192.txt:	 Before while loop
+128_128_g8192.txt:	 After while loop
+128_128_g8192.txt:	 Before writing time in file
+128_128_g8192.txt:	 After writing time in file
+128_128_g8192.txt:	 After bellman_ford
+128_128_g8192.txt:	 End of Execution
+256_256_g8192.txt:	 Start Executing
+256_256_g8192.txt:	 Before bellman_ford
+256_256_g8192.txt:	 Before cudaMalloc
+256_256_g8192.txt:	 After cudaMalloc
+256_256_g8192.txt:	 Before while loop
+256_256_g8192.txt:	 After while loop
+256_256_g8192.txt:	 Before writing time in file
+256_256_g8192.txt:	 After writing time in file
+256_256_g8192.txt:	 After bellman_ford
+256_256_g8192.txt:	 End of Execution
+512_512_g8192.txt:	 Start Executing
+512_512_g8192.txt:	 Before bellman_ford
+512_512_g8192.txt:	 Before cudaMalloc
+512_512_g8192.txt:	 After cudaMalloc
+512_512_g8192.txt:	 Before while loop
+512_512_g8192.txt:	 After while loop
+512_512_g8192.txt:	 Before writing time in file
+512_512_g8192.txt:	 After writing time in file
+512_512_g8192.txt:	 After bellman_ford
+512_512_g8192.txt:	 End of Execution
+4_512_g8192.txt:	 Start Executing
+4_512_g8192.txt:	 Before bellman_ford
+4_512_g8192.txt:	 Before cudaMalloc
+4_512_g8192.txt:	 After cudaMalloc
+4_512_g8192.txt:	 Before while loop
+4_512_g8192.txt:	 After while loop
+4_512_g8192.txt:	 Before writing time in file
+4_512_g8192.txt:	 After writing time in file
+4_512_g8192.txt:	 After bellman_ford
+4_512_g8192.txt:	 End of Execution
+8_256_g8192.txt:	 Start Executing
+8_256_g8192.txt:	 Before bellman_ford
+8_256_g8192.txt:	 Before cudaMalloc
+8_256_g8192.txt:	 After cudaMalloc
+8_256_g8192.txt:	 Before while loop
+8_256_g8192.txt:	 After while loop
+8_256_g8192.txt:	 Before writing time in file
+8_256_g8192.txt:	 After writing time in file
+8_256_g8192.txt:	 After bellman_ford
+8_256_g8192.txt:	 End of Execution
+16_128_g8192.txt:	 Start Executing
+16_128_g8192.txt:	 Before bellman_ford
+16_128_g8192.txt:	 Before cudaMalloc
+16_128_g8192.txt:	 After cudaMalloc
+16_128_g8192.txt:	 Before while loop
+16_128_g8192.txt:	 After while loop
+16_128_g8192.txt:	 Before writing time in file
+16_128_g8192.txt:	 After writing time in file
+16_128_g8192.txt:	 After bellman_ford
+16_128_g8192.txt:	 End of Execution
+1_1_g16384.txt:	 Start Executing
+1_1_g16384.txt:	 Before bellman_ford
+1_1_g16384.txt:	 Before cudaMalloc
+1_1_g16384.txt:	 After cudaMalloc
+1_1_g16384.txt:	 Before while loop
+1_1_g16384.txt:	 After while loop
+1_1_g16384.txt:	 Before writing time in file
+1_1_g16384.txt:	 After writing time in file
+1_1_g16384.txt:	 After bellman_ford
+1_1_g16384.txt:	 End of Execution
+1_2_g16384.txt:	 Start Executing
+1_2_g16384.txt:	 Before bellman_ford
+1_2_g16384.txt:	 Before cudaMalloc
+1_2_g16384.txt:	 After cudaMalloc
+1_2_g16384.txt:	 Before while loop
+1_2_g16384.txt:	 After while loop
+1_2_g16384.txt:	 Before writing time in file
+1_2_g16384.txt:	 After writing time in file
+1_2_g16384.txt:	 After bellman_ford
+1_2_g16384.txt:	 End of Execution
+1_4_g16384.txt:	 Start Executing
+1_4_g16384.txt:	 Before bellman_ford
+1_4_g16384.txt:	 Before cudaMalloc
+1_4_g16384.txt:	 After cudaMalloc
+1_4_g16384.txt:	 Before while loop
+1_4_g16384.txt:	 After while loop
+1_4_g16384.txt:	 Before writing time in file
+1_4_g16384.txt:	 After writing time in file
+1_4_g16384.txt:	 After bellman_ford
+1_4_g16384.txt:	 End of Execution
+1_8_g16384.txt:	 Start Executing
+1_8_g16384.txt:	 Before bellman_ford
+1_8_g16384.txt:	 Before cudaMalloc
+1_8_g16384.txt:	 After cudaMalloc
+1_8_g16384.txt:	 Before while loop
+1_8_g16384.txt:	 After while loop
+1_8_g16384.txt:	 Before writing time in file
+1_8_g16384.txt:	 After writing time in file
+1_8_g16384.txt:	 After bellman_ford
+1_8_g16384.txt:	 End of Execution
+1_16_g16384.txt:	 Start Executing
+1_16_g16384.txt:	 Before bellman_ford
+1_16_g16384.txt:	 Before cudaMalloc
+1_16_g16384.txt:	 After cudaMalloc
+1_16_g16384.txt:	 Before while loop
+1_16_g16384.txt:	 After while loop
+1_16_g16384.txt:	 Before writing time in file
+1_16_g16384.txt:	 After writing time in file
+1_16_g16384.txt:	 After bellman_ford
+1_16_g16384.txt:	 End of Execution
+1_32_g16384.txt:	 Start Executing
+1_32_g16384.txt:	 Before bellman_ford
+1_32_g16384.txt:	 Before cudaMalloc
+1_32_g16384.txt:	 After cudaMalloc
+1_32_g16384.txt:	 Before while loop
+1_32_g16384.txt:	 After while loop
+1_32_g16384.txt:	 Before writing time in file
+1_32_g16384.txt:	 After writing time in file
+1_32_g16384.txt:	 After bellman_ford
+1_32_g16384.txt:	 End of Execution
+1_64_g16384.txt:	 Start Executing
+1_64_g16384.txt:	 Before bellman_ford
+1_64_g16384.txt:	 Before cudaMalloc
+1_64_g16384.txt:	 After cudaMalloc
+1_64_g16384.txt:	 Before while loop
+1_64_g16384.txt:	 After while loop
+1_64_g16384.txt:	 Before writing time in file
+1_64_g16384.txt:	 After writing time in file
+1_64_g16384.txt:	 After bellman_ford
+1_64_g16384.txt:	 End of Execution
+1_128_g16384.txt:	 Start Executing
+1_128_g16384.txt:	 Before bellman_ford
+1_128_g16384.txt:	 Before cudaMalloc
+1_128_g16384.txt:	 After cudaMalloc
+1_128_g16384.txt:	 Before while loop
+1_128_g16384.txt:	 After while loop
+1_128_g16384.txt:	 Before writing time in file
+1_128_g16384.txt:	 After writing time in file
+1_128_g16384.txt:	 After bellman_ford
+1_128_g16384.txt:	 End of Execution
+1_256_g16384.txt:	 Start Executing
+1_256_g16384.txt:	 Before bellman_ford
+1_256_g16384.txt:	 Before cudaMalloc
+1_256_g16384.txt:	 After cudaMalloc
+1_256_g16384.txt:	 Before while loop
+1_256_g16384.txt:	 After while loop
+1_256_g16384.txt:	 Before writing time in file
+1_256_g16384.txt:	 After writing time in file
+1_256_g16384.txt:	 After bellman_ford
+1_256_g16384.txt:	 End of Execution
+1_512_g16384.txt:	 Start Executing
+1_512_g16384.txt:	 Before bellman_ford
+1_512_g16384.txt:	 Before cudaMalloc
+1_512_g16384.txt:	 After cudaMalloc
+1_512_g16384.txt:	 Before while loop
+1_512_g16384.txt:	 After while loop
+1_512_g16384.txt:	 Before writing time in file
+1_512_g16384.txt:	 After writing time in file
+1_512_g16384.txt:	 After bellman_ford
+1_512_g16384.txt:	 End of Execution
+1_1024_g16384.txt:	 Start Executing
+1_1024_g16384.txt:	 Before bellman_ford
+1_1024_g16384.txt:	 Before cudaMalloc
+1_1024_g16384.txt:	 After cudaMalloc
+1_1024_g16384.txt:	 Before while loop
+1_1024_g16384.txt:	 After while loop
+1_1024_g16384.txt:	 Before writing time in file
+1_1024_g16384.txt:	 After writing time in file
+1_1024_g16384.txt:	 After bellman_ford
+1_1024_g16384.txt:	 End of Execution
+1_2048_g16384.txt:	 Start Executing
+1_2048_g16384.txt:	 Before bellman_ford
+1_2048_g16384.txt:	 Before cudaMalloc
+1_2048_g16384.txt:	 After cudaMalloc
+1_2048_g16384.txt:	 Before while loop
+1_2048_g16384.txt:	 After while loop
+1_2048_g16384.txt:	 Before writing time in file
+1_2048_g16384.txt:	 After writing time in file
+1_2048_g16384.txt:	 After bellman_ford
+1_2048_g16384.txt:	 End of Execution
+1_4096_g16384.txt:	 Start Executing
+1_4096_g16384.txt:	 Before bellman_ford
+1_4096_g16384.txt:	 Before cudaMalloc
+1_4096_g16384.txt:	 After cudaMalloc
+1_4096_g16384.txt:	 Before while loop
+1_4096_g16384.txt:	 After while loop
+1_4096_g16384.txt:	 Before writing time in file
+1_4096_g16384.txt:	 After writing time in file
+1_4096_g16384.txt:	 After bellman_ford
+1_4096_g16384.txt:	 End of Execution
+1_8192_g16384.txt:	 Start Executing
+1_8192_g16384.txt:	 Before bellman_ford
+1_8192_g16384.txt:	 Before cudaMalloc
+1_8192_g16384.txt:	 After cudaMalloc
+1_8192_g16384.txt:	 Before while loop
+1_8192_g16384.txt:	 After while loop
+1_8192_g16384.txt:	 Before writing time in file
+1_8192_g16384.txt:	 After writing time in file
+1_8192_g16384.txt:	 After bellman_ford
+1_8192_g16384.txt:	 End of Execution
+1_16384_g16384.txt:	 Start Executing
+1_16384_g16384.txt:	 Before bellman_ford
+1_16384_g16384.txt:	 Before cudaMalloc
+1_16384_g16384.txt:	 After cudaMalloc
+1_16384_g16384.txt:	 Before while loop
+1_16384_g16384.txt:	 After while loop
+1_16384_g16384.txt:	 Before writing time in file
+1_16384_g16384.txt:	 After writing time in file
+1_16384_g16384.txt:	 After bellman_ford
+1_16384_g16384.txt:	 End of Execution
+4_4_g16384.txt:	 Start Executing
+4_4_g16384.txt:	 Before bellman_ford
+4_4_g16384.txt:	 Before cudaMalloc
+4_4_g16384.txt:	 After cudaMalloc
+4_4_g16384.txt:	 Before while loop
+4_4_g16384.txt:	 After while loop
+4_4_g16384.txt:	 Before writing time in file
+4_4_g16384.txt:	 After writing time in file
+4_4_g16384.txt:	 After bellman_ford
+4_4_g16384.txt:	 End of Execution
+8_8_g16384.txt:	 Start Executing
+8_8_g16384.txt:	 Before bellman_ford
+8_8_g16384.txt:	 Before cudaMalloc
+8_8_g16384.txt:	 After cudaMalloc
+8_8_g16384.txt:	 Before while loop
+8_8_g16384.txt:	 After while loop
+8_8_g16384.txt:	 Before writing time in file
+8_8_g16384.txt:	 After writing time in file
+8_8_g16384.txt:	 After bellman_ford
+8_8_g16384.txt:	 End of Execution
+16_16_g16384.txt:	 Start Executing
+16_16_g16384.txt:	 Before bellman_ford
+16_16_g16384.txt:	 Before cudaMalloc
+16_16_g16384.txt:	 After cudaMalloc
+16_16_g16384.txt:	 Before while loop
+16_16_g16384.txt:	 After while loop
+16_16_g16384.txt:	 Before writing time in file
+16_16_g16384.txt:	 After writing time in file
+16_16_g16384.txt:	 After bellman_ford
+16_16_g16384.txt:	 End of Execution
+32_32_g16384.txt:	 Start Executing
+32_32_g16384.txt:	 Before bellman_ford
+32_32_g16384.txt:	 Before cudaMalloc
+32_32_g16384.txt:	 After cudaMalloc
+32_32_g16384.txt:	 Before while loop
+32_32_g16384.txt:	 After while loop
+32_32_g16384.txt:	 Before writing time in file
+32_32_g16384.txt:	 After writing time in file
+32_32_g16384.txt:	 After bellman_ford
+32_32_g16384.txt:	 End of Execution
+64_64_g16384.txt:	 Start Executing
+64_64_g16384.txt:	 Before bellman_ford
+64_64_g16384.txt:	 Before cudaMalloc
+64_64_g16384.txt:	 After cudaMalloc
+64_64_g16384.txt:	 Before while loop
+64_64_g16384.txt:	 After while loop
+64_64_g16384.txt:	 Before writing time in file
+64_64_g16384.txt:	 After writing time in file
+64_64_g16384.txt:	 After bellman_ford
+64_64_g16384.txt:	 End of Execution
+128_128_g16384.txt:	 Start Executing
+128_128_g16384.txt:	 Before bellman_ford
+128_128_g16384.txt:	 Before cudaMalloc
+128_128_g16384.txt:	 After cudaMalloc
+128_128_g16384.txt:	 Before while loop
+128_128_g16384.txt:	 After while loop
+128_128_g16384.txt:	 Before writing time in file
+128_128_g16384.txt:	 After writing time in file
+128_128_g16384.txt:	 After bellman_ford
+128_128_g16384.txt:	 End of Execution
+256_256_g16384.txt:	 Start Executing
+256_256_g16384.txt:	 Before bellman_ford
+256_256_g16384.txt:	 Before cudaMalloc
+256_256_g16384.txt:	 After cudaMalloc
+256_256_g16384.txt:	 Before while loop
+256_256_g16384.txt:	 After while loop
+256_256_g16384.txt:	 Before writing time in file
+256_256_g16384.txt:	 After writing time in file
+256_256_g16384.txt:	 After bellman_ford
+256_256_g16384.txt:	 End of Execution
+512_512_g16384.txt:	 Start Executing
+512_512_g16384.txt:	 Before bellman_ford
+512_512_g16384.txt:	 Before cudaMalloc
+512_512_g16384.txt:	 After cudaMalloc
+512_512_g16384.txt:	 Before while loop
+512_512_g16384.txt:	 After while loop
+512_512_g16384.txt:	 Before writing time in file
+512_512_g16384.txt:	 After writing time in file
+512_512_g16384.txt:	 After bellman_ford
+512_512_g16384.txt:	 End of Execution
+4_512_g16384.txt:	 Start Executing
+4_512_g16384.txt:	 Before bellman_ford
+4_512_g16384.txt:	 Before cudaMalloc
+4_512_g16384.txt:	 After cudaMalloc
+4_512_g16384.txt:	 Before while loop
+4_512_g16384.txt:	 After while loop
+4_512_g16384.txt:	 Before writing time in file
+4_512_g16384.txt:	 After writing time in file
+4_512_g16384.txt:	 After bellman_ford
+4_512_g16384.txt:	 End of Execution
+8_256_g16384.txt:	 Start Executing
+8_256_g16384.txt:	 Before bellman_ford
+8_256_g16384.txt:	 Before cudaMalloc
+8_256_g16384.txt:	 After cudaMalloc
+8_256_g16384.txt:	 Before while loop
+8_256_g16384.txt:	 After while loop
+8_256_g16384.txt:	 Before writing time in file
+8_256_g16384.txt:	 After writing time in file
+8_256_g16384.txt:	 After bellman_ford
+8_256_g16384.txt:	 End of Execution
+16_128_g16384.txt:	 Start Executing
+16_128_g16384.txt:	 Before bellman_ford
+16_128_g16384.txt:	 Before cudaMalloc
+16_128_g16384.txt:	 After cudaMalloc
+16_128_g16384.txt:	 Before while loop
+16_128_g16384.txt:	 After while loop
+16_128_g16384.txt:	 Before writing time in file
+16_128_g16384.txt:	 After writing time in file
+16_128_g16384.txt:	 After bellman_ford
+16_128_g16384.txt:	 End of Execution

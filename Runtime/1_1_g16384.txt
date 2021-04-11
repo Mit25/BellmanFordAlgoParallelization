@@ -1,0 +1,4 @@
+Memory copy time from host to device: 429.276611
+Bellman-Ford Parallel Time: 514931.406250
+Memory copy time from device to host: 0.058432
+CPU clock time: 516.040000
